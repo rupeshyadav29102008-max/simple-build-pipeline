@@ -1,0 +1,3 @@
+Application Name: Office Portal App
+Version: 1.1.1
+Description: A lightweight web utility for tracking work and meetings.
